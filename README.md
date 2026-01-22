@@ -6,6 +6,7 @@ A modern, professional React application built with TypeScript, Vite, and Materi
 
 - **Authentication System**: Secure Login, Signup, and Forgot Password flows using JWT.
 - **Dashboard & Admin**: Protected routes and role-based views (Dashboard, Admin panel).
+- **File Upload System**: Real-time upload progress tracking with status indicators, file management, and metadata handling.
 - **Audio Tools**: Specialized Audio Trimming functionality.
 - **Routing**: Client-side routing with `react-router`.
 - **State Management**: Global state handling with Redux Toolkit.
